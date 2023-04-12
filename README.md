@@ -134,11 +134,11 @@ plt.show()
 
 ## Output:
 ### head:
-[!output](o1.png)
+![output](o1.png)
 ### graph:
-[!output](o2.png)
+![output](o2.png)
 ## error:
-[!output](o3.png)
+![output](o3.png)
 
 
 
